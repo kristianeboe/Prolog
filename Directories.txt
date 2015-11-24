@@ -1,0 +1,5 @@
+cd('Users/Kristian/GoogleDrive/University/ThirdYear/DeclarativeProgramming/Prolog') .
+
+cd('Users/Kristian/GoogleDrive/University/ThirdYear/DeclarativeProgramming/Prolog/workshops/workshopFiles') .
+
+cd('Users/Kristian/GoogleDrive/University/ThirdYear/DeclarativeProgramming/Prolog/numbers_game') .
